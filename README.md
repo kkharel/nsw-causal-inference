@@ -48,9 +48,8 @@ The sensitivity analysis shows that the observational estimates are individually
 ```
 .
 ├── nsw_selection_on_observables.ipynb   # the notebook (executed; all outputs included)
-├── data/
-│   ├── nsw_dw_experimental.csv          # Dehejia–Wahba experimental sample, 185 treated + 260 controls
-│   └── cps3_controls.csv                # CPS-3 comparison sample, 429 men
+├── nsw_dw_experimental.csv          # Dehejia–Wahba experimental sample, 185 treated + 260 controls
+├── cps3_controls.csv                # CPS-3 comparison sample, 429 men
 ├── requirements.txt
 └── README.md
 ```
